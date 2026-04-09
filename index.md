@@ -4,28 +4,8 @@ title: Home
 ---
 
 # Hi, I'm Ashley 😁
+I'm currently a Machine Learning student at BYU who's curious about the practical uses of machine learning with special interests in translation, speech recognition, and computer vision!
 
-Welcome to my portfolio! 
-
-## About Me
-I'm a Machine Learning student at BYU who's curious about the practical uses of machine learning algorithms
-
-I love playing the piano, playing chess, and reading!
-
-Feel free to check out my [GitHub profile](https://github.com/yourusername) for more projects!
-
-
----
-layout: default
-title: Ashley's Portfolio
----
-
-# Hi, I'm Ashley 👋
-*Machine Learning student at BYU who's curious about the practical uses of machine learning with special interests in translation, speech recognition, and computer vision
-
-Welcome to my personal website! Here you'll find my projects, experience, and ways to get in touch.
-
----
 
 ## Projects
 Here are some of my recent class projects:
