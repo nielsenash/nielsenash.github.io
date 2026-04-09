@@ -1,6 +1,6 @@
-title: Ashley's Website
-description: Personal cs website
-theme: minima
+title: Ashley Nielsen
+description: Personal CS website
+theme: jekyll-theme-merlot
 url: "https://nielsenash.github.io"
 baseurl: ""
 markdown: kramdown
