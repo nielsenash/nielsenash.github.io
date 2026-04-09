@@ -23,6 +23,12 @@ Welcome to my portfolio! Below are some of my recent class projects:
 
 ---
 
+### Numbers Game
+**Description:** Implemented a Bayesian Inference Model in connection with the Number Game
+**Repo:** [View on GitHub](https://github.com/nielsenash/Numbers_Game)
+
+---
+
 ## About Me
 I'm a Machine Learning student at BYU who's curious about the practical uses of machine learning algorithms
 
