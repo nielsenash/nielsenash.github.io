@@ -3,13 +3,32 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm Ashley 👋
+# Hi, I'm Ashley 😁
 
-Welcome to my portfolio! Below are some of my recent class projects:
+Welcome to my portfolio! 
+
+## About Me
+I'm a Machine Learning student at BYU who's curious about the practical uses of machine learning algorithms
+
+I love playing the piano, playing chess, and reading!
+
+Feel free to check out my [GitHub profile](https://github.com/yourusername) for more projects!
+
+
+---
+layout: default
+title: Ashley's Portfolio
+---
+
+# Hi, I'm Ashley 👋
+*Machine Learning student at BYU who's curious about the practical uses of machine learning with special interests in translation, speech recognition, and computer vision
+
+Welcome to my personal website! Here you'll find my projects, experience, and ways to get in touch.
 
 ---
 
 ## Projects
+Here are some of my recent class projects:
 
 ### Chess 
 **Description:** Full-stack chess application for CS 240 that allows users to play using a command-line interface
@@ -29,9 +48,24 @@ Welcome to my portfolio! Below are some of my recent class projects:
 
 ---
 
-## About Me
-I'm a Machine Learning student at BYU who's curious about the practical uses of machine learning algorithms
+## Experience
+- **Technical Intern**, Church of Jesus Christ of Latter-day Saints — April 2025 - January 2026  
+  Worked on developing an internal error-reporting tool for processed content 
 
-I love playing the piano, playing chess, and reading!
+---
 
-Feel free to check out my [GitHub profile](https://github.com/yourusername) for more projects!
+## Skills
+- **Languages:** Python, Kotlin, C++, Java
+- **Tools** Git, AWS (API Gateway, DynamoDB)
+- **ML** NumPy, pandas, scikit-learn, matplotlib, seaborn, TensorFlow
+
+---
+
+## Resume
+
+---
+
+## Contact
+- **Email:** ashleynielse@gmail.com  
+- **LinkedIn:** [linkedin.com/in/ashley-nielsen13/](https://www.linkedin.com/in/ashley-nielsen13/)  
+- **GitHub:** [github.com/nielsenash](https://github.com/nielsenash)
