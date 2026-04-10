@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm Ashley 😁
+# Hi, I'm Ashley 😊
+
+## About Me
 I'm currently a Machine Learning student at BYU who's curious about the practical uses of machine learning with special interests in translation, speech recognition, and computer vision!
 
 
@@ -32,15 +34,15 @@ Here are some of my recent class projects:
 ---
 
 ## Experience
-- **Technical Intern**, Church of Jesus Christ of Latter-day Saints — April 2025 - January 2026  
-  Worked on developing an internal error-reporting tool for processed content 
+*Technical Intern*, Church of Jesus Christ of Latter-day Saints — April 2025 - January 2026  
+ - Worked on developing an internal error-reporting tool for processed content 
 
 ---
 
 ## Skills
 - **Languages:** Python, Kotlin, C++, Java
-- **Tools** Git, AWS (API Gateway, DynamoDB)
-- **ML** NumPy, pandas, scikit-learn, matplotlib, seaborn, TensorFlow
+- **Tools:** Git, AWS (API Gateway, DynamoDB)
+- **MLs:** NumPy, pandas, scikit-learn, matplotlib, seaborn, TensorFlow
 
 ---
 
