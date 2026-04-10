@@ -1,5 +1,3 @@
-# Hi, I'm Ashley
-
 ### Machine Learning Student @ BYU
 
 I'm interested in building real-world ML systems, especially in translation, speech recognition, and computer vision.
