@@ -1,13 +1,7 @@
----
-layout: default
-title: Ashley Nielsen | Portfolio
----
+# Hi, I'm Ashley
+### Machine Learning Student @ BYU
 
-# Hi, I'm Ashley 😊
-
-## About Me
-I'm currently a Machine Learning student at BYU who's curious about real-world ML applications, with special interests in translation, speech recognition, and computer vision!
-
+I'm interested in building real-world ML systems, especially in translation, speech recognition, and computer vision.
 
 ## Projects
 Here are some of my recent class projects:
@@ -35,7 +29,7 @@ Here are some of my recent class projects:
 
 ## Experience
 *Technical Intern*, Church of Jesus Christ of Latter-day Saints — Summer 2025 
- - Worked on developing an internal error-reporting tool for processed content 
+ - Developed an internal error-reporting tool for processed content 
 
 ---
 
